@@ -1,4 +1,4 @@
-🛍 Sales Product Performance Analysis
+**🛍 Sales Product Performance Analysis**
 
 An end-to-end retail analytics project focused on product-level sales, profit trends, and performance segmentation. The goal is to uncover margin leakages, identify growth opportunities, and recommend data-driven optimization strategies.
 
