@@ -7,7 +7,7 @@ An end-to-end retail analytics project focused on product-level sales, profit tr
 
 📸 Dashboard Preview
 
-
+![Image](https://github.com/user-attachments/assets/a08efc28-8754-47cd-b5f5-70f0d6f4676d)
 
 ---
 
